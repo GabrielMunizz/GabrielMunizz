@@ -1,7 +1,10 @@
-# Hello world! I'm Gabriel Muniz and welcome to my profile!<br> Be free to poke around. Have fun!  🤘🏼🤘🏼
+# Hello world! I'm Gabriel Muniz and welcome to my profile!<br> 
+### I'm a Frontend developer from Juiz de Fora, Minas Gerais - Brasil. <br>
+### Currently my projects are focused in React with TypeScript. <br>
+### In my spare time I'm studying NextJs and I intend to study Angular as soon as I can.
 
 ### Social Media:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-muniz-dev/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielMunizz) [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/GabrielMunizz) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-muniz-dev/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielMunizz) 
 
 
 ### My stats:

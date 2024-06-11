@@ -1,7 +1,7 @@
-# Hello world! I'm Gabriel Muniz and welcome to my profile!<br> 
-### I'm a Frontend developer from Juiz de Fora, Minas Gerais - Brasil. <br>
-### Currently my projects are focused in React with TypeScript. <br>
-### In my spare time I'm studying NextJs and I intend to study Angular as soon as I can.
+# Gabriel Muniz <br> 
+### I'm a Full-Stack developer from Juiz de Fora, Minas Gerais - Brasil. <br>
+### Hard skills: <br>
+- Next.js, React.js, Node.js, Prisma, Express, Typescript, Docker, Redux, MySQL, Vitest <br>
 
 ### Social Media:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-muniz-dev/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielMunizz) 
